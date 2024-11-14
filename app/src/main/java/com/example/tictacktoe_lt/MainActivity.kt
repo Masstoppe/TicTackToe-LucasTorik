@@ -34,10 +34,10 @@ fun TicTacToeApp(){
     }
 
 }
-
+//PREVIEW
 @Preview(showBackground = true)
 @Composable
-fun GreetingPreview() {
+fun TicTacToePreview() {
     TicTackToeLTTheme {
         TicTacToeApp()
     }
